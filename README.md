@@ -16,8 +16,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UgolinDeveloper&langs_count=5&theme=dark)
 
 ![ugolin Developer's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=UgolinDeveloper&theme=dark)
-
-## Blog posts
-
-<!-- TWITTER:START -->
-<!-- TWITTER:END -->
