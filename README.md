@@ -7,7 +7,12 @@
 - 🔗 I’m looking to collaborate with other content creators.
 - ✨ 2021 Goals: Contribute more to Open Source projects.
 
-## Deezer playing 🎷
+## Stats
 
-<div data-snack-id="@Booba/music-player-app" data-snack-platform="web" data-snack-preview="true" data-snack-theme="dark" style="overflow:hidden;background:#212733;border:1px solid rgba(0,0,0,.08);border-radius:4px;height:505px;width:100%"></div>
-<script async src="https://snack.expo.io/embed.js"></script>
+![Ugolin Developer's github stats](https://github-readme-stats.vercel.app/api?username=UgolinDeveloper&show_icons=true&count_private=true&theme=dark)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=UgolinDeveloper&repo=UgolinDeveloper&theme=dark)](https://github.com/UgolinDeveloper/UgolinDeveloper)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UgolinDeveloper&&langs_count=10&theme=dark)](https://github.com/UgolinDeveloper/UgolinDeveloper)
+
+[![ugolin Developer's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=UgolinDeveloper&theme=dark)](https://github.com/UgolinDeveloper/UgolinDeveloper)
