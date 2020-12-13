@@ -5,7 +5,3 @@
 - 🌱 I learning everything.
 - 🔗 I’m looking to collaborate with other content creators.
 - ✨ 2021 Goals: Contribute more to Open Source projects.
-
-## Last posts
-<!-- TWITTER:START -->
-<!-- TWITTER:END -->
