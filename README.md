@@ -13,9 +13,9 @@
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=UgolinDeveloper&repo=UgolinDeveloper&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UgolinDeveloper&&langs_count=10&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UgolinDeveloper&langs_count=10&theme=dark)
 
-![ugolin Developer's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=UgolinDeveloper&theme=dark)]
+![ugolin Developer's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=UgolinDeveloper&theme=dark)
 
 ## Languages and Tools:
 
