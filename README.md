@@ -35,22 +35,12 @@ I like to make websites on the front side but I especially love the back side. I
 </p>
 
 <h2 align='center'>Skills</h2>
-<div class='row'>
-    <div class='colomun'>
-        <h3 align='left'>Programmation</h3>
+    <h3 align='left'>Programmation</h3>
         <p align='left'>
             <img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'>&nbsp;&nbsp;
             <img  src='https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white'>
         </p>
-    </div>
-    <div class='column'>
-        <h3 align='right'>Educative</h3>
-        <p align='right'>
-            <img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'>&nbsp;&nbsp;
-            <img  src='https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white'>
-        </p>
-    </div>
-</div>
+
 
 <h2 align='center'>Stats</h2>
 
