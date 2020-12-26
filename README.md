@@ -46,7 +46,7 @@ I like to make websites on the front side but I especially love the back side. I
 
 ![Ugolin Developer's github stats](https://github-readme-stats.vercel.app/api?username=UgolinDeveloper&show_icons=true&count_private=true&theme=dark&hide_border=true)
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=UgolinDeveloper&repo=Project-2&theme=dark&hide_border=true)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=UgolinDeveloper&repo=DocGen&theme=dark&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UgolinDeveloper&langs_count=5&theme=dark&hide_border=true)
 
