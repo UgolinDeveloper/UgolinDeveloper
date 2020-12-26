@@ -56,9 +56,9 @@ I like to make websites on the front side but I especially love the back side. I
             <img src='https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white'>&nbsp;&nbsp;
         </p>
     <!-- Database skills -->
-    <h3 align='right'>Database skills</h3>
+    <h3 align='left'>Database skills</h3>
         <!-- Database skills icons -->
-        <p align='right'>
+        <p align='left'>
             <img src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white'>&nbsp;&nbsp;
             <img src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white'>&nbsp;&nbsp;
             <img src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white'>&nbsp;&nbsp;
@@ -76,11 +76,7 @@ I like to make websites on the front side but I especially love the back side. I
 <!-- Stats -->
 <h2 align='center'>Stats</h2>
     <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=UgolinDeveloper&show_icons=true&count_private=true&theme=dark&hide_border=true" alt="Ugolin Developer's github stats"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UgolinDeveloper&langs_count=5&theme=dark&hide_border=true" alt="Top Langs"/>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ugolindeveloper&" alt="ugolindeveloper"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=UgolinDeveloper&show_icons=true&count_private=true&theme=dark&hide_border=true" alt="Ugolin Developer's github stats"/>&nbsp;&nbsp;
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UgolinDeveloper&langs_count=5&theme=dark&hide_border=true" alt="Top Langs"/>&nbsp;&nbsp;
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ugolindeveloper&theme=dark" alt="ugolindeveloper"/>
     </p>
-
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/UgolinDeveloper/count.svg" />
-</p>
