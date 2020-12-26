@@ -41,6 +41,7 @@ I like to make websites on the front side but I especially love the back side. I
     </p>
 
 <!-- Skills  -->
+
 <h2 align='center'>Skills</h2>
     <!-- Languages -->
     <h3 align='left'>Languages</h3>
@@ -78,5 +79,5 @@ I like to make websites on the front side but I especially love the back side. I
     <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=UgolinDeveloper&show_icons=true&count_private=true&theme=dark&hide_border=true" alt="Ugolin Developer's github stats"/>&nbsp;&nbsp;
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UgolinDeveloper&langs_count=5&theme=dark&hide_border=true" alt="Top Langs"/>&nbsp;&nbsp;
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ugolindeveloper&theme=dark" alt="ugolindeveloper"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ugolindeveloper&theme=dark&hide_border=true" alt="ugolindeveloper"/>
     </p>
